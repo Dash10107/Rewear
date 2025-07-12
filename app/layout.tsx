@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "ReWear - The Fashion Swap Revolution",
   description: "Swipe. Swap. Sustain. Join the sustainable fashion revolution.",
   keywords: ["fashion", "sustainability", "clothing swap", "eco-friendly", "community"],
-    generator: 'v0.dev'
+    generator: 'Team Hustlers'
 }
 
 export default function RootLayout({
