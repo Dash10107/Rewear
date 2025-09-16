@@ -122,17 +122,7 @@ Let **GPT-4** auto-tag, suggest outfits, and predict swapability.
 | 🏆 Gamified UX | Points, leaderboards & dopamine-fueled eco-action. |
 | 🛡️ Inclusive & Safe | Moderated, accessible, empowering for all. |
 
----
 
-## 👥 Meet the Team – Team 2884
-
-| Name | Email | GitHub |
-|------|-------|--------|
-| **Vinisha Bhagwani** | vinishabhagwani50@gmail.com | [vinisha1014](https://github.com/vinisha1014) |
-| **Vinay Vora** | voravinay6@gmail.com | [Wizardsweb](https://github.com/Wizardsweb) |
-| **Daksh Jain** _(Team Leader)_ | dakshcjain@gmail.com | [Dash10107](https://github.com/Dash10107) |
-
----
 
 ## 💡 Our Philosophy
 
